@@ -7,5 +7,6 @@ public class Main {
         x = sc.nextInt();
         System.out.print("The number is: " + x);
         System.out.println("\nThe third!");
+        System.out.println("hello2");
     }
 }
